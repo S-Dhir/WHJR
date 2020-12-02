@@ -1,0 +1,21 @@
+div {
+    text-align: center;
+    size: 500px;
+}
+body {
+    background-color: #416c6e;
+}
+.right {
+    margin-left: 600px;
+}
+.description {
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(135, 184, 151);
+}
+h1 {
+    color: rgb(96, 199, 247);
+}
+.left {
+    margin-left: 50%;
+}

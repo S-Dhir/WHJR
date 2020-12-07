@@ -81,6 +81,7 @@ p {
     padding-bottom: 5px;
     font-family: 'Nerko One', cursive;
     font-size: 20px;
+    position: fixed;
 }
 .links:hover {
     background-color: blanchedalmond;

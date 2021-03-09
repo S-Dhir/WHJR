@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Piedra&display=swap');
+.list {
+    float: left;
+    transition: transform .2s;
+    color: aquamarine;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+.list:hover {
+    transform: scale(1.2);
+}
+.header {
+    list-style: none;
+    font-family: fantasy;
+    top: 10px;
+    z-index: 10;
+    cursor: pointer;
+    position: sticky;
+    margin-bottom: 25%;
+}
+.nav {
+    background-color: black;
+    height: 10%;
+    width: 100%;
+}
+.marquee {
+    background-color: rgb(255, 0, 234);
+    color: rgb(28, 24, 58);
+    font-size: large;
+}
+.title {
+    background-image: url('Hogwarts.jpg');
+    height: 60%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.hogwarts {
+    background-color: rgba(255, 255, 255, 0.452);
+    height: 100%;
+    text-align: center;
+    margin: auto;
+}
+h1 {
+    font-size: 60;
+    font-family: 'Piedra', cursive;
+    color: rgb(189, 186, 0);
+}
+.maps-frame {
+    width: 100%;
+}
